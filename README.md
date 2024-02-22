@@ -2,7 +2,7 @@
 
 I'm an enthusiastic web developer currently studying at a technical university.
 
-- 🔭 I'm currently working on honing my skills as a fullstack web developer through my studies at the technical university.
+- 🔭 I'm currently working on honing my skills as a fullstack web developer through my studies at the technical university Nackademin.
 - 🌱 I'm constantly learning and striving to improve my skills in web development.
 - 👯 I'm open to collaborating on exciting web development projects.
 - 💬 Feel free to ask me about web development, frontend technologies, or any related topics!
