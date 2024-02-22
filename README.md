@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hello there! 👋
 
-<!--
-**oablom/oablom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an enthusiastic web developer currently studying at a technical university.
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working on honing my skills as a fullstack web developer through my studies at the technical university.
+- 🌱 I'm constantly learning and striving to improve my skills in web development.
+- 👯 I'm open to collaborating on exciting web development projects.
+- 💬 Feel free to ask me about web development, frontend technologies, or any related topics!
+- 😄 You can refer to me with the pronouns he/him.
+- ⚡ Fun fact: I love being creative when solving problems and designing user experiences!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+
+If you'd like to reach out to me, don't hesitate to send a message or connect via the following channels:
+
+- GitHub: [oablom](https://github.com/oablom)
+- Email: [oablom@gmail.com](mailto:oablom@gmail.com)
